@@ -1,0 +1,57 @@
+.center-heading {
+  text-align: center;
+}
+
+.flag-image {
+  max-width: 100px;
+  margin: 40px;
+  height: auto;
+}
+
+
+.container {
+  text-align: center;
+}
+
+.red-text {
+  color: red;
+}
+
+.yellow-text {
+  color: yellow;
+}
+
+.green-text {
+  color: green;
+}
+
+
+.red {
+  text-decoration: underline;
+  color: red;
+  font-size: 25px;
+}
+
+.yellow {
+  text-decoration: underline;
+  color: yellow;
+  font-size: 25px;
+}
+
+.green {
+  text-decoration: underline;
+  color: green;
+  font-size: 25px;
+  
+}
+
+.col-sm{
+  margin: 30px;
+}
+
+.goback{
+  font-size: 50px;
+}
+
+
+
